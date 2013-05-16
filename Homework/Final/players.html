@@ -13,11 +13,13 @@
         <!-- Place favicon.ico and apple-touch-icon.png in the root directory -->
 
         <link rel="stylesheet" href="css/normalize.css">
+        <link rel="stylesheet" href="css/bootstrap.css">
         <link rel="stylesheet" href="css/bootstrap-responsive.css">
         <link rel="stylesheet" href="css/main.css">
         <script src="js/vendor/modernizr-2.6.2.min.js"></script>
+        <script src="http://code.jquery.com/jquery-latest.js"></script>
     </head>
-    <body bgcolor = #707070>
+    <body bgcolor = #708090>
         <!--[if lt IE 7]>
             <p class="chromeframe">You are using an <strong>outdated</strong> browser. Please <a href="http://browsehappy.com/">upgrade your browser</a> or <a href="http://www.google.com/chromeframe/?redirect=true">activate Google Chrome Frame</a> to improve your experience.</p>
         <![endif]-->
@@ -31,17 +33,78 @@
         	   <div class="row-fluid offset4">
                     <img src="img/players.gif" height="70" width="400">
                 </div>
-           </div>
-
-            
-            <div class="row">
-                <div id="players" class="offset1">
-                    <ul>
-                    </ul>
-                </div> 
             </div>
-            <br>
-            <div class="offset5 span2 buttons">
+            <br><br>
+
+            <div class="row-fluid offset5">
+                <h3>Select A Team</h3>
+                <tr>
+                <td>MLB</td>
+                <td><label><select id="dropDown" name="MLB">
+                <option value="Blank">Select a team</option>
+                <option value="RedSox">Boston Red Sox</option>
+                <option value="Braves">Atlanta Braves</option>
+                <option value="Yankees">New York Yankees</option>
+                <option value="Phillies">Philadelphia Phillies</option>
+                <option value="BlueJays">Toronto Blue Jays</option>
+                <option value="Mets">New York Mets</option>
+                <option value="Orioles">Baltimore Orioles</option>
+                <option value="Marlins">Florida Marlins</option>
+                <option value="Rays">Tampa Bay Rays</option>
+                <option value="Nationals">Washington Nationals</option>
+                <option value="WhiteSox">Chicago White Sox</option>
+                <option value="Cardinals">St. Louis Cardinals</option>
+                <option value="Indians">Cleveland Indians</option>
+                <option value="Astros">Houston Astros</option>
+                <option value="Twins">Minnesota Twins</option>
+                <option value="Brewers">Milwaukee Brewers</option>
+                <option value="Tigers">Detroit Tigers</option>
+                <option value="Cubs">Chicago Cubs</option>
+                <option value="Royals">Kansas City Royals</option>
+                <option value="Reds">Cincinnati Reds</option>
+                <option value="Pirates">Pittsburgh Pirates</option>
+                <option value="Angels">Los Angeles Angels of Anaheim</option>
+                <option value="Padres">San Diego Padres</option>
+                <option value="Athletics">Oakland Athletics</option>
+                <option value="Giants">San Francisco Giants</option>
+                <option value="Rangers">Texas Rangers</option>
+                <option value="Diamondbacks">Arizona Diamondbacks</option>
+                <option value="Mariners">Seattle Mariners</option>
+                <option value="Dodgers">Los Angeles Dodgers</option>
+                <option value="Rockies">Colorado Rockies</option>
+                </select></label></td>
+                </tr>
+            </div>
+
+            <br><br>
+
+            <div class="row yes">
+                <div class="span2">
+                    First Name
+                </div>
+                <div class="span2">
+                    Last Name
+                </div>
+                <div class="span2">
+                    Debut
+                </div>
+                <div class="span1">
+                    Birthday
+                </div>
+                <div class="offset1 span1">
+                    Bats
+                </div>
+                <div class="span2">
+                    Throws
+                </div>
+            </div>
+            <br><br>
+            <div id="master-team" class="row profile"></div>
+
+            <br><br>
+            
+
+            <div class="offset5 span2 btn btn-large btn-success">
 
                 <a href="index.html">​Home</a>​
 
@@ -59,15 +122,15 @@
         <!--<script src="//ajax.googleapis.com/ajax/libs/jquery/1.9.0/jquery.min.js"></script>
             </div>-->
         <script>window.jQuery || document.write('<script src="js/vendor/jquery-1.9.0.min.js"><\/script>')</script>
-        <script src="js/plugin.js"></script>
+        <script src="js/plugins.js"></script>
         <script src="js/players.js"></script>
 
         <!-- Google Analytics: change UA-XXXXX-X to be your site's ID. -->
-        <script>
+<!--script>
             var _gaq=[['_setAccount','UA-XXXXX-X'],['_trackPageview']];
             (function(d,t){var g=d.createElement(t),s=d.getElementsByTagName(t)[0];
             g.src=('https:'==location.protocol?'//ssl':'//www')+'.google-analytics.com/ga.js';
             s.parentNode.insertBefore(g,s)}(document,'script'));
-        </script>
+        </script>//-->
     </body>
 </html>

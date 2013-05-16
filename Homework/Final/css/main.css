@@ -100,11 +100,32 @@ textarea {
     padding-bottom: 20px;
 }
 
+.test {
+    background: #ccc;
+    padding-left: 10px;
+    padding-right: 10px;
+}
 
+.test1 {
+    background: #ccc;
+    padding-left: 10px;
+}
 
+.row {
+    margin-left: 20px;
+}
 
+.yes {
+    background: #ccc;
+}
 
+.profile {
+    background: #bbb;
+}
 
+.nba{
+    background: #bbb;
+}
 
 
 

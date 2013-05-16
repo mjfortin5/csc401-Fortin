@@ -1,0 +1,1929 @@
+<PlayerChanges>
+   <Team uID="7406">
+    <name>Boston Celtics</name>
+    <Player uID="3000630">
+     <Name>Mickael Pietrus</Name>
+     <Position>G-F</Position>
+     <Stat type="first_name">Mickael</Stat>
+     <Stat type="last_name">Pietrus</Stat>
+     <Stat type="birth_date">1982-02-07</Stat>
+     <Stat type="weight">98</Stat>
+     <Stat type="iw">215</Stat>
+     <Stat type="height">198</Stat>
+     <Stat type="ih">78</Stat>
+     <Stat type="jersey_num">28</Stat>
+     <Stat type="college"><![CDATA[Pau Orthez]]></Stat>
+     <Stat type="first_year_pro">2003</Stat>
+     <Stat type="join_date">2011-12-01</Stat>
+     <Stat type="leave_date">2012-09-01</Stat>
+    </Player>
+    <Player uID="3001427">
+     <Name>Keyon Dooling</Name>
+     <Position>G</Position>
+     <Stat type="first_name">Keyon</Stat>
+     <Stat type="last_name">Dooling</Stat>
+     <Stat type="birth_date">1980-05-08</Stat>
+     <Stat type="weight">88</Stat>
+     <Stat type="iw">194</Stat>
+     <Stat type="height">191</Stat>
+     <Stat type="ih">75</Stat>
+     <Stat type="jersey_num">51</Stat>
+     <Stat type="college"><![CDATA[Missouri]]></Stat>
+     <Stat type="join_date">2011-09-01</Stat>
+     <Stat type="leave_date">2012-09-01</Stat>
+    </Player>
+    <Player uID="3002179">
+     <Name>Dionte Christmas</Name>
+     <Position>G</Position>
+     <Stat type="first_name">Dionte</Stat>
+     <Stat type="last_name">Christmas</Stat>
+     <Stat type="birth_date">1986-09-15</Stat>
+     <Stat type="weight">93</Stat>
+     <Stat type="iw">205</Stat>
+     <Stat type="height">196</Stat>
+     <Stat type="ih">77</Stat>
+     <Stat type="jersey_num">12</Stat>
+     <Stat type="college"><![CDATA[Temple]]></Stat>
+     <Stat type="first_year_pro">2012</Stat>
+     <Stat type="join_date">2012-09-01</Stat>
+     <Stat type="leave_date">2012-10-21</Stat>
+    </Player>
+    <Player uID="1737">
+     <Name>Jamar Smith</Name>
+     <Position>G</Position>
+     <Stat type="first_name">Jamar</Stat>
+     <Stat type="last_name">Smith</Stat>
+     <Stat type="birth_date">1987-04-07</Stat>
+     <Stat type="weight">84</Stat>
+     <Stat type="iw">185</Stat>
+     <Stat type="height">191</Stat>
+     <Stat type="ih">75</Stat>
+     <Stat type="jersey_num">26</Stat>
+     <Stat type="college"><![CDATA[Illinois]]></Stat>
+     <Stat type="first_year_pro">2012</Stat>
+     <Stat type="join_date">2012-10-01</Stat>
+     <Stat type="leave_date">2012-10-21</Stat>
+    </Player>
+   </Team>
+   <Team uID="7407">
+    <name>Atlanta Hawks</name>
+    <Player uID="3001568">
+     <Name>Tracy McGrady</Name>
+     <Position>F</Position>
+     <Stat type="first_name">Tracy</Stat>
+     <Stat type="last_name">McGrady</Stat>
+     <Stat type="birth_date">1979-05-24</Stat>
+     <Stat type="weight">101</Stat>
+     <Stat type="iw">223</Stat>
+     <Stat type="height">203</Stat>
+     <Stat type="ih">80</Stat>
+     <Stat type="jersey_num">1</Stat>
+     <Stat type="college"><![CDATA[Mount Zion Christian Acad. HS]]></Stat>
+     <Stat type="join_date">2011-12-01</Stat>
+     <Stat type="leave_date">2012-09-01</Stat>
+    </Player>
+    <Player uID="3003017">
+     <Name>Carldell Johnson</Name>
+     <Position>G</Position>
+     <Stat type="first_name">Carldell</Stat>
+     <Stat type="last_name">Johnson</Stat>
+     <Stat type="birth_date">1983-01-28</Stat>
+     <Stat type="weight">82</Stat>
+     <Stat type="iw">180</Stat>
+     <Stat type="height">178</Stat>
+     <Stat type="ih">70</Stat>
+     <Stat type="jersey_num">6</Stat>
+     <Stat type="college"><![CDATA[Alabama-Birmingham]]></Stat>
+     <Stat type="first_year_pro">2011</Stat>
+     <Stat type="join_date">2012-09-01</Stat>
+     <Stat type="leave_date">2012-10-21</Stat>
+    </Player>
+    <Player uID="3001546">
+     <Name>Erick Dampier</Name>
+     <Position>C</Position>
+     <Stat type="first_name">Erick</Stat>
+     <Stat type="last_name">Dampier</Stat>
+     <Stat type="birth_date">1975-07-14</Stat>
+     <Stat type="weight">120</Stat>
+     <Stat type="iw">265</Stat>
+     <Stat type="height">211</Stat>
+     <Stat type="ih">83</Stat>
+     <Stat type="jersey_num">25</Stat>
+     <Stat type="college"><![CDATA[Mississippi State]]></Stat>
+     <Stat type="join_date">2011-12-01</Stat>
+     <Stat type="leave_date">2012-09-01</Stat>
+    </Player>
+    <Player uID="3002969">
+     <Name>Keith Benson</Name>
+     <Position>F-C</Position>
+     <Stat type="first_name">Keith</Stat>
+     <Stat type="last_name">Benson</Stat>
+     <Stat type="birth_date">1988-08-13</Stat>
+     <Stat type="weight">104</Stat>
+     <Stat type="iw">230</Stat>
+     <Stat type="height">211</Stat>
+     <Stat type="ih">83</Stat>
+     <Stat type="jersey_num">13</Stat>
+     <Stat type="college"><![CDATA[Oakland University (MI)]]></Stat>
+     <Stat type="first_year_pro">2011</Stat>
+     <Stat type="join_date">2012-09-01</Stat>
+     <Stat type="leave_date">2012-10-21</Stat>
+    </Player>
+    <Player uID="3002972">
+     <Name>Donald Sloan</Name>
+     <Position>G</Position>
+     <Stat type="first_name">Donald</Stat>
+     <Stat type="last_name">Sloan</Stat>
+     <Stat type="birth_date">1988-01-15</Stat>
+     <Stat type="weight">93</Stat>
+     <Stat type="iw">205</Stat>
+     <Stat type="height">191</Stat>
+     <Stat type="ih">75</Stat>
+     <Stat type="jersey_num">15</Stat>
+     <Stat type="college"><![CDATA[Texas A&M]]></Stat>
+     <Stat type="first_year_pro">2011</Stat>
+     <Stat type="join_date">2012-02-09</Stat>
+     <Stat type="leave_date">2012-03-15</Stat>
+     <Stat type="new_team">Cleveland Cavaliers</Stat>
+    </Player>
+    <Player uID="1745">
+     <Name>Ismail Muhammed</Name>
+     <Position>G-F</Position>
+     <Stat type="first_name">Ismail</Stat>
+     <Stat type="last_name">Muhammed</Stat>
+     <Stat type="birth_date">1983-07-01</Stat>
+     <Stat type="weight">103</Stat>
+     <Stat type="iw">228</Stat>
+     <Stat type="height">198</Stat>
+     <Stat type="ih">78</Stat>
+     <Stat type="jersey_num">20</Stat>
+     <Stat type="college"><![CDATA[Georgia Tech]]></Stat>
+     <Stat type="first_year_pro">2012</Stat>
+     <Stat type="join_date">2012-09-01</Stat>
+     <Stat type="leave_date">2012-10-21</Stat>
+    </Player>
+   </Team>
+   <Team uID="7408">
+    <name>Chicago Bulls</name>
+    <Player uID="3001477">
+     <Name>Brian Scalabrine</Name>
+     <Position>F</Position>
+     <Stat type="first_name">Brian</Stat>
+     <Stat type="last_name">Scalabrine</Stat>
+     <Stat type="birth_date">1978-03-18</Stat>
+     <Stat type="weight">106</Stat>
+     <Stat type="iw">234</Stat>
+     <Stat type="height">206</Stat>
+     <Stat type="ih">81</Stat>
+     <Stat type="jersey_num">24</Stat>
+     <Stat type="college"><![CDATA[USC]]></Stat>
+     <Stat type="join_date">2011-12-01</Stat>
+     <Stat type="leave_date">2012-09-01</Stat>
+    </Player>
+    <Player uID="3001630">
+     <Name>Mike James</Name>
+     <Position>G-F</Position>
+     <Stat type="first_name">Mike</Stat>
+     <Stat type="last_name">James</Stat>
+     <Stat type="birth_date">1975-06-23</Stat>
+     <Stat type="weight">85</Stat>
+     <Stat type="iw">187</Stat>
+     <Stat type="height">188</Stat>
+     <Stat type="ih">74</Stat>
+     <Stat type="jersey_num">8</Stat>
+     <Stat type="college"><![CDATA[Duquesne]]></Stat>
+     <Stat type="join_date">2011-12-01</Stat>
+     <Stat type="leave_date">2012-09-01</Stat>
+    </Player>
+    <Player uID="3001788">
+     <Name>Kyrylo Fesenko</Name>
+     <Position>C</Position>
+     <Stat type="first_name">Kyrylo</Stat>
+     <Stat type="last_name">Fesenko</Stat>
+     <Stat type="birth_date">1986-12-24</Stat>
+     <Stat type="weight">127</Stat>
+     <Stat type="iw">280</Stat>
+     <Stat type="height">216</Stat>
+     <Stat type="ih">85</Stat>
+     <Stat type="jersey_num">44</Stat>
+     <Stat type="college"><![CDATA[Cherkaski]]></Stat>
+     <Stat type="first_year_pro">2007</Stat>
+     <Stat type="join_date">2012-09-01</Stat>
+     <Stat type="leave_date">2012-10-21</Stat>
+    </Player>
+    <Player uID="1742">
+     <Name>Vance Cooksey</Name>
+     <Position>G</Position>
+     <Stat type="first_name">Vance</Stat>
+     <Stat type="last_name">Cooksey</Stat>
+     <Stat type="birth_date">1987-12-10</Stat>
+     <Stat type="weight">79</Stat>
+     <Stat type="iw">175</Stat>
+     <Stat type="height">183</Stat>
+     <Stat type="ih">72</Stat>
+     <Stat type="jersey_num">3</Stat>
+     <Stat type="college"><![CDATA[Pikeville]]></Stat>
+     <Stat type="first_year_pro">2012</Stat>
+     <Stat type="join_date">2012-09-01</Stat>
+     <Stat type="leave_date">2012-10-21</Stat>
+    </Player>
+    <Player uID="103000546">
+     <Name>Andre Emmett</Name>
+     <Position>G</Position>
+     <Stat type="first_name">Andre</Stat>
+     <Stat type="last_name">Emmett</Stat>
+     <Stat type="birth_date">1982-08-27</Stat>
+     <Stat type="weight">104</Stat>
+     <Stat type="iw">230</Stat>
+     <Stat type="height">196</Stat>
+     <Stat type="ih">77</Stat>
+     <Stat type="jersey_num">15</Stat>
+     <Stat type="college"><![CDATA[Texas Tech]]></Stat>
+     <Stat type="first_year_pro">2010</Stat>
+     <Stat type="join_date">2012-09-01</Stat>
+     <Stat type="leave_date">2012-10-21</Stat>
+    </Player>
+   </Team>
+   <Team uID="7409">
+    <name>Cleveland Cavaliers</name>
+    <Player uID="3000428">
+     <Name>Anthony Parker</Name>
+     <Position>G</Position>
+     <Stat type="first_name">Anthony</Stat>
+     <Stat type="last_name">Parker</Stat>
+     <Stat type="birth_date">1975-06-19</Stat>
+     <Stat type="weight">97</Stat>
+     <Stat type="iw">214</Stat>
+     <Stat type="height">198</Stat>
+     <Stat type="ih">78</Stat>
+     <Stat type="jersey_num">18</Stat>
+     <Stat type="college"><![CDATA[Bradley]]></Stat>
+     <Stat type="join_date">2011-12-01</Stat>
+     <Stat type="leave_date">2012-09-01</Stat>
+    </Player>
+    <Player uID="3001409">
+     <Name>Jason Kapono</Name>
+     <Position>F</Position>
+     <Stat type="first_name">Jason</Stat>
+     <Stat type="last_name">Kapono</Stat>
+     <Stat type="birth_date">1981-02-04</Stat>
+     <Stat type="weight">97</Stat>
+     <Stat type="iw">214</Stat>
+     <Stat type="height">203</Stat>
+     <Stat type="ih">80</Stat>
+     <Stat type="jersey_num"></Stat>
+     <Stat type="join_date">2011-12-09</Stat>
+     <Stat type="leave_date">2012-03-17</Stat>
+    </Player>
+    <Player uID="3000798">
+     <Name>Semih Erden</Name>
+     <Position>C</Position>
+     <Stat type="first_name">Semih</Stat>
+     <Stat type="last_name">Erden</Stat>
+     <Stat type="birth_date">1986-07-28</Stat>
+     <Stat type="weight">113</Stat>
+     <Stat type="iw">249</Stat>
+     <Stat type="height">211</Stat>
+     <Stat type="ih">83</Stat>
+     <Stat type="jersey_num">9</Stat>
+     <Stat type="join_date">2011-12-01</Stat>
+     <Stat type="leave_date">2012-09-01</Stat>
+    </Player>
+    <Player uID="3000754">
+     <Name>Kelenna Azubuike</Name>
+     <Position>G</Position>
+     <Stat type="first_name">Kelenna</Stat>
+     <Stat type="last_name">Azubuike</Stat>
+     <Stat type="birth_date">1983-12-16</Stat>
+     <Stat type="weight">98</Stat>
+     <Stat type="iw">215</Stat>
+     <Stat type="height">196</Stat>
+     <Stat type="ih">77</Stat>
+     <Stat type="jersey_num"></Stat>
+     <Stat type="college"><![CDATA[Kentucky]]></Stat>
+     <Stat type="first_year_pro">2008</Stat>
+     <Stat type="join_date">2012-09-01</Stat>
+     <Stat type="leave_date">2012-10-21</Stat>
+    </Player>
+    <Player uID="103000576">
+     <Name>Manny Harris</Name>
+     <Position>G</Position>
+     <Stat type="first_name">Manny </Stat>
+     <Stat type="last_name">Harris</Stat>
+     <Stat type="birth_date">1989-09-21</Stat>
+     <Stat type="weight">84</Stat>
+     <Stat type="iw">185</Stat>
+     <Stat type="height">196</Stat>
+     <Stat type="ih">77</Stat>
+     <Stat type="jersey_num">6</Stat>
+     <Stat type="college"><![CDATA[Michigan]]></Stat>
+     <Stat type="join_date">2012-02-21</Stat>
+     <Stat type="leave_date">2012-09-01</Stat>
+    </Player>
+   </Team>
+   <Team uID="7410">
+    <name>Detroit Pistons</name>
+    <Player uID="3002983">
+     <Name>Vermon Macklin</Name>
+     <Position>F</Position>
+     <Stat type="first_name">Vermon</Stat>
+     <Stat type="last_name">Macklin</Stat>
+     <Stat type="birth_date">1986-06-09</Stat>
+     <Stat type="weight">103</Stat>
+     <Stat type="iw">227</Stat>
+     <Stat type="height">208</Stat>
+     <Stat type="ih">82</Stat>
+     <Stat type="jersey_num">20</Stat>
+     <Stat type="college"><![CDATA[Florida]]></Stat>
+     <Stat type="join_date">2011-12-01</Stat>
+     <Stat type="leave_date">2012-09-01</Stat>
+    </Player>
+    <Player uID="3001685">
+     <Name>Ben Wallace</Name>
+     <Position>C</Position>
+     <Stat type="first_name">Ben</Stat>
+     <Stat type="last_name">Wallace</Stat>
+     <Stat type="birth_date">1974-09-10</Stat>
+     <Stat type="weight">108</Stat>
+     <Stat type="iw">238</Stat>
+     <Stat type="height">206</Stat>
+     <Stat type="ih">81</Stat>
+     <Stat type="jersey_num">6</Stat>
+     <Stat type="college"><![CDATA[Virginia Union]]></Stat>
+     <Stat type="join_date">2011-12-01</Stat>
+     <Stat type="leave_date">2012-09-01</Stat>
+    </Player>
+    <Player uID="103000540">
+     <Name>Walker Russell</Name>
+     <Position>G</Position>
+     <Stat type="first_name">Walker</Stat>
+     <Stat type="last_name">Russell</Stat>
+     <Stat type="birth_date">1982-10-06</Stat>
+     <Stat type="weight">77</Stat>
+     <Stat type="iw">170</Stat>
+     <Stat type="height">183</Stat>
+     <Stat type="ih">72</Stat>
+     <Stat type="jersey_num">23</Stat>
+     <Stat type="college"><![CDATA[Jacksonville State]]></Stat>
+     <Stat type="join_date">2012-01-01</Stat>
+     <Stat type="leave_date">2012-09-01</Stat>
+    </Player>
+   </Team>
+   <Team uID="7411">
+    <name>Indiana Pacers</name>
+    <Player uID="3001726">
+     <Name>Jeff Foster</Name>
+     <Position>F-C</Position>
+     <Stat type="first_name">Jeff</Stat>
+     <Stat type="last_name">Foster</Stat>
+     <Stat type="birth_date">1977-01-16</Stat>
+     <Stat type="weight">113</Stat>
+     <Stat type="iw">249</Stat>
+     <Stat type="height">211</Stat>
+     <Stat type="ih">83</Stat>
+     <Stat type="jersey_num">10</Stat>
+     <Stat type="college"><![CDATA[Texas State]]></Stat>
+     <Stat type="join_date">2011-12-01</Stat>
+     <Stat type="leave_date">2012-09-01</Stat>
+    </Player>
+    <Player uID="3000532">
+     <Name>Leandro Barbosa</Name>
+     <Position>G</Position>
+     <Stat type="first_name">Leandro</Stat>
+     <Stat type="last_name">Barbosa</Stat>
+     <Stat type="birth_date">1982-11-28</Stat>
+     <Stat type="weight">88</Stat>
+     <Stat type="iw">194</Stat>
+     <Stat type="height">191</Stat>
+     <Stat type="ih">75</Stat>
+     <Stat type="jersey_num">12</Stat>
+     <Stat type="college"><![CDATA[Palmeiras (Brazil)]]></Stat>
+     <Stat type="first_year_pro">2003</Stat>
+     <Stat type="join_date">2011-12-01</Stat>
+     <Stat type="leave_date">2012-09-01</Stat>
+     <Stat type="new_team">Boston Celtics</Stat>
+    </Player>
+    <Player uID="3001864">
+     <Name>Lou Amundson</Name>
+     <Position>F</Position>
+     <Stat type="first_name">Lou</Stat>
+     <Stat type="last_name">Amundson</Stat>
+     <Stat type="birth_date">1982-12-07</Stat>
+     <Stat type="weight">102</Stat>
+     <Stat type="iw">225</Stat>
+     <Stat type="height">206</Stat>
+     <Stat type="ih">81</Stat>
+     <Stat type="jersey_num">17</Stat>
+     <Stat type="college"><![CDATA[Nevada-Las Vegas]]></Stat>
+     <Stat type="first_year_pro">2006</Stat>
+     <Stat type="join_date">2011-12-01</Stat>
+     <Stat type="leave_date">2012-09-01</Stat>
+     <Stat type="new_team">Minnesota Timberwolves</Stat>
+    </Player>
+   </Team>
+   <Team uID="7412">
+    <name>Miami Heat</name>
+    <Player uID="3002996">
+     <Name>Mickell Gladness</Name>
+     <Position>C</Position>
+     <Stat type="first_name">Mickell</Stat>
+     <Stat type="last_name">Gladness</Stat>
+     <Stat type="birth_date">1986-07-26</Stat>
+     <Stat type="weight">100</Stat>
+     <Stat type="iw">220</Stat>
+     <Stat type="height">211</Stat>
+     <Stat type="ih">83</Stat>
+     <Stat type="jersey_num">32</Stat>
+     <Stat type="college"><![CDATA[Alabama A&M]]></Stat>
+     <Stat type="first_year_pro">2011</Stat>
+     <Stat type="join_date">2012-09-01</Stat>
+     <Stat type="leave_date">2012-10-22</Stat>
+    </Player>
+    <Player uID="3001590">
+     <Name>Eddy Curry</Name>
+     <Position>C</Position>
+     <Stat type="first_name">Eddy</Stat>
+     <Stat type="last_name">Curry</Stat>
+     <Stat type="birth_date">1982-12-05</Stat>
+     <Stat type="weight">134</Stat>
+     <Stat type="iw">295</Stat>
+     <Stat type="height">211</Stat>
+     <Stat type="ih">83</Stat>
+     <Stat type="jersey_num">52</Stat>
+     <Stat type="college"><![CDATA[Thornwood HS]]></Stat>
+     <Stat type="first_year_pro">2002</Stat>
+     <Stat type="join_date">-0001-11-30</Stat>
+     <Stat type="leave_date">2012-09-01</Stat>
+     <Stat type="new_team">San Antonio Spurs</Stat>
+    </Player>
+    <Player uID="3001670">
+     <Name>Juwan Howard</Name>
+     <Position>F</Position>
+     <Stat type="first_name">Juwan</Stat>
+     <Stat type="last_name">Howard</Stat>
+     <Stat type="birth_date">1973-02-07</Stat>
+     <Stat type="weight">114</Stat>
+     <Stat type="iw">251</Stat>
+     <Stat type="height">206</Stat>
+     <Stat type="ih">81</Stat>
+     <Stat type="jersey_num">5</Stat>
+     <Stat type="college"><![CDATA[Michigan]]></Stat>
+     <Stat type="join_date">2011-12-01</Stat>
+     <Stat type="leave_date">2012-09-01</Stat>
+    </Player>
+    <Player uID="1746">
+     <Name>Robert Dozier</Name>
+     <Position>F</Position>
+     <Stat type="first_name">Robert</Stat>
+     <Stat type="last_name">Dozier</Stat>
+     <Stat type="birth_date">1985-11-06</Stat>
+     <Stat type="weight">97</Stat>
+     <Stat type="iw">214</Stat>
+     <Stat type="height">205</Stat>
+     <Stat type="ih">81</Stat>
+     <Stat type="jersey_num"></Stat>
+     <Stat type="college"><![CDATA[Memphis]]></Stat>
+     <Stat type="first_year_pro">2012</Stat>
+     <Stat type="join_date">2012-09-01</Stat>
+     <Stat type="leave_date">2012-10-22</Stat>
+    </Player>
+   </Team>
+   <Team uID="7413">
+    <name>Milwaukee Bucks</name>
+    <Player uID="3002998">
+     <Name>Darington Hobson</Name>
+     <Position>G</Position>
+     <Stat type="first_name">Darington</Stat>
+     <Stat type="last_name">Hobson</Stat>
+     <Stat type="birth_date">1987-09-29</Stat>
+     <Stat type="weight">95</Stat>
+     <Stat type="iw">209</Stat>
+     <Stat type="height">201</Stat>
+     <Stat type="ih">79</Stat>
+     <Stat type="jersey_num">11</Stat>
+     <Stat type="join_date">2011-12-01</Stat>
+     <Stat type="leave_date">2011-12-29</Stat>
+    </Player>
+   </Team>
+   <Team uID="7414">
+    <name>Brooklyn Nets</name>
+    <Player uID="3001414">
+     <Name>Jordan Farmar</Name>
+     <Position>G</Position>
+     <Stat type="first_name">Jordan</Stat>
+     <Stat type="last_name">Farmar</Stat>
+     <Stat type="birth_date">1986-11-30</Stat>
+     <Stat type="weight">81</Stat>
+     <Stat type="iw">179</Stat>
+     <Stat type="height">188</Stat>
+     <Stat type="ih">74</Stat>
+     <Stat type="jersey_num">2</Stat>
+     <Stat type="college"><![CDATA[UCLA]]></Stat>
+     <Stat type="join_date">2011-12-01</Stat>
+     <Stat type="leave_date">2012-09-01</Stat>
+    </Player>
+    <Player uID="3001886">
+     <Name>Shelden Williams</Name>
+     <Position>C-F</Position>
+     <Stat type="first_name">Shelden</Stat>
+     <Stat type="last_name">Williams</Stat>
+     <Stat type="birth_date">1983-10-21</Stat>
+     <Stat type="weight">113</Stat>
+     <Stat type="iw">250</Stat>
+     <Stat type="height">206</Stat>
+     <Stat type="ih">81</Stat>
+     <Stat type="jersey_num">33</Stat>
+     <Stat type="college"><![CDATA[Duke]]></Stat>
+     <Stat type="first_year_pro">2006</Stat>
+     <Stat type="join_date">2011-12-01</Stat>
+     <Stat type="leave_date">2012-09-01</Stat>
+    </Player>
+    <Player uID="3003015">
+     <Name>Jordan Williams</Name>
+     <Position>F</Position>
+     <Stat type="first_name">Jordan</Stat>
+     <Stat type="last_name">Williams</Stat>
+     <Stat type="birth_date">1990-10-11</Stat>
+     <Stat type="weight">118</Stat>
+     <Stat type="iw">260</Stat>
+     <Stat type="height">208</Stat>
+     <Stat type="ih">82</Stat>
+     <Stat type="jersey_num">20</Stat>
+     <Stat type="college"><![CDATA[Maryland]]></Stat>
+     <Stat type="join_date">2011-12-01</Stat>
+     <Stat type="leave_date">2012-09-01</Stat>
+    </Player>
+    <Player uID="1728">
+     <Name>Jerry Smith</Name>
+     <Position>G</Position>
+     <Stat type="first_name">Jerry</Stat>
+     <Stat type="last_name">Smith</Stat>
+     <Stat type="birth_date">1987-09-26</Stat>
+     <Stat type="weight">86</Stat>
+     <Stat type="iw">190</Stat>
+     <Stat type="height">188</Stat>
+     <Stat type="ih">74</Stat>
+     <Stat type="jersey_num">28</Stat>
+     <Stat type="college"><![CDATA[Louisville]]></Stat>
+     <Stat type="join_date">2011-12-17</Stat>
+     <Stat type="leave_date">2012-09-01</Stat>
+    </Player>
+   </Team>
+   <Team uID="7415">
+    <name>New York Knicks</name>
+    <Player uID="3001543">
+     <Name>Bill Walker</Name>
+     <Position>G-F</Position>
+     <Stat type="first_name">Bill</Stat>
+     <Stat type="last_name">Walker</Stat>
+     <Stat type="birth_date">1987-10-09</Stat>
+     <Stat type="weight">99</Stat>
+     <Stat type="iw">218</Stat>
+     <Stat type="height">198</Stat>
+     <Stat type="ih">78</Stat>
+     <Stat type="jersey_num">5</Stat>
+     <Stat type="college"><![CDATA[Kansas State]]></Stat>
+     <Stat type="join_date">2011-12-01</Stat>
+     <Stat type="leave_date">2012-09-01</Stat>
+    </Player>
+    <Player uID="3001793">
+     <Name>Mike Bibby</Name>
+     <Position>G</Position>
+     <Stat type="first_name">Mike</Stat>
+     <Stat type="last_name">Bibby</Stat>
+     <Stat type="birth_date">1978-05-13</Stat>
+     <Stat type="weight">88</Stat>
+     <Stat type="iw">195</Stat>
+     <Stat type="height">188</Stat>
+     <Stat type="ih">74</Stat>
+     <Stat type="jersey_num">20</Stat>
+     <Stat type="college"><![CDATA[Arizona]]></Stat>
+     <Stat type="first_year_pro">1998</Stat>
+     <Stat type="join_date">2011-12-01</Stat>
+     <Stat type="leave_date">2012-09-01</Stat>
+    </Player>
+    <Player uID="3001838">
+     <Name>Baron Davis</Name>
+     <Position>G</Position>
+     <Stat type="first_name">Baron</Stat>
+     <Stat type="last_name">Davis</Stat>
+     <Stat type="birth_date">1979-04-13</Stat>
+     <Stat type="weight">96</Stat>
+     <Stat type="iw">212</Stat>
+     <Stat type="height">191</Stat>
+     <Stat type="ih">75</Stat>
+     <Stat type="jersey_num">85</Stat>
+     <Stat type="college"><![CDATA[UCLA]]></Stat>
+     <Stat type="first_year_pro">1999</Stat>
+     <Stat type="join_date">2011-12-01</Stat>
+     <Stat type="leave_date">2012-09-01</Stat>
+    </Player>
+   </Team>
+   <Team uID="7416">
+    <name>Orlando Magic</name>
+    <Player uID="3001570">
+     <Name>Von Wafer</Name>
+     <Position>G</Position>
+     <Stat type="first_name">Von</Stat>
+     <Stat type="last_name">Wafer</Stat>
+     <Stat type="birth_date">1985-07-21</Stat>
+     <Stat type="weight">95</Stat>
+     <Stat type="iw">209</Stat>
+     <Stat type="height">196</Stat>
+     <Stat type="ih">77</Stat>
+     <Stat type="jersey_num">1</Stat>
+     <Stat type="college"><![CDATA[Florida State]]></Stat>
+     <Stat type="join_date">2011-12-01</Stat>
+     <Stat type="leave_date">2012-09-01</Stat>
+    </Player>
+    <Player uID="3001657">
+     <Name>Larry Hughes</Name>
+     <Position>G</Position>
+     <Stat type="first_name">Larry</Stat>
+     <Stat type="last_name">Hughes</Stat>
+     <Stat type="birth_date">1979-01-23</Stat>
+     <Stat type="weight">83</Stat>
+     <Stat type="iw">183</Stat>
+     <Stat type="height">196</Stat>
+     <Stat type="ih">77</Stat>
+     <Stat type="jersey_num">20</Stat>
+     <Stat type="join_date">2011-12-09</Stat>
+     <Stat type="leave_date">2012-02-01</Stat>
+    </Player>
+   </Team>
+   <Team uID="7417">
+    <name>Philadelphia 76ers</name>
+    <Player uID="3002715">
+     <Name>Craig Brackins</Name>
+     <Position>F</Position>
+     <Stat type="first_name">Craig</Stat>
+     <Stat type="last_name">Brackins</Stat>
+     <Stat type="birth_date">1987-10-09</Stat>
+     <Stat type="weight">104</Stat>
+     <Stat type="iw">229</Stat>
+     <Stat type="height">208</Stat>
+     <Stat type="ih">82</Stat>
+     <Stat type="jersey_num">33</Stat>
+     <Stat type="college"><![CDATA[Iowa State]]></Stat>
+     <Stat type="join_date">2010-12-01</Stat>
+     <Stat type="leave_date">2012-09-01</Stat>
+    </Player>
+    <Player uID="3000205">
+     <Name>Andrés Nocioni</Name>
+     <Position>F</Position>
+     <Stat type="first_name">Andrés</Stat>
+     <Stat type="last_name">Nocioni</Stat>
+     <Stat type="birth_date">1979-11-30</Stat>
+     <Stat type="weight">102</Stat>
+     <Stat type="iw">225</Stat>
+     <Stat type="height">201</Stat>
+     <Stat type="ih">79</Stat>
+     <Stat type="jersey_num">5</Stat>
+     <Stat type="join_date">2011-12-01</Stat>
+     <Stat type="leave_date">2012-09-01</Stat>
+    </Player>
+    <Player uID="3001424">
+     <Name>Tony Battie</Name>
+     <Position>C</Position>
+     <Stat type="first_name">Tony</Stat>
+     <Stat type="last_name">Battie</Stat>
+     <Stat type="birth_date">1976-02-11</Stat>
+     <Stat type="weight">108</Stat>
+     <Stat type="iw">238</Stat>
+     <Stat type="height">211</Stat>
+     <Stat type="ih">83</Stat>
+     <Stat type="jersey_num">4</Stat>
+     <Stat type="college"><![CDATA[Texas Tech]]></Stat>
+     <Stat type="join_date">2011-12-01</Stat>
+     <Stat type="leave_date">2012-09-01</Stat>
+    </Player>
+    <Player uID="3001882">
+     <Name>Mikki Moore</Name>
+     <Position>F-C</Position>
+     <Stat type="first_name">Mikki</Stat>
+     <Stat type="last_name">Moore</Stat>
+     <Stat type="birth_date">1975-11-04</Stat>
+     <Stat type="weight">102</Stat>
+     <Stat type="iw">225</Stat>
+     <Stat type="height">213</Stat>
+     <Stat type="ih">84</Stat>
+     <Stat type="jersey_num">31</Stat>
+     <Stat type="college"><![CDATA[Nebraska]]></Stat>
+     <Stat type="first_year_pro">1999</Stat>
+     <Stat type="join_date">2012-09-01</Stat>
+     <Stat type="leave_date">2012-10-21</Stat>
+    </Player>
+    <Player uID="3000062">
+     <Name>Francisco Elson</Name>
+     <Position>C-F</Position>
+     <Stat type="first_name">Francisco</Stat>
+     <Stat type="last_name">Elson</Stat>
+     <Stat type="birth_date">1976-02-28</Stat>
+     <Stat type="weight">106</Stat>
+     <Stat type="iw">234</Stat>
+     <Stat type="height">213</Stat>
+     <Stat type="ih">84</Stat>
+     <Stat type="jersey_num">16</Stat>
+     <Stat type="join_date">2012-02-03</Stat>
+     <Stat type="leave_date">2012-01-27</Stat>
+     <Stat type="new_team">Philadelphia 76ers</Stat>
+    </Player>
+    <Player uID="1734">
+     <Name>Xavier Silas</Name>
+     <Position>G</Position>
+     <Stat type="first_name">Xavier</Stat>
+     <Stat type="last_name">Silas</Stat>
+     <Stat type="birth_date">1988-01-22</Stat>
+     <Stat type="weight">93</Stat>
+     <Stat type="iw">205</Stat>
+     <Stat type="height">196</Stat>
+     <Stat type="ih">77</Stat>
+     <Stat type="jersey_num">0</Stat>
+     <Stat type="college"><![CDATA[Northern Illinois]]></Stat>
+     <Stat type="first_year_pro">2012</Stat>
+     <Stat type="join_date">2012-09-01</Stat>
+     <Stat type="leave_date">2012-10-21</Stat>
+    </Player>
+    <Player uID="3001776">
+     <Name>Dan Gadzuric</Name>
+     <Position>C</Position>
+     <Stat type="first_name">Dan</Stat>
+     <Stat type="last_name">Gadzuric</Stat>
+     <Stat type="birth_date">1978-02-02</Stat>
+     <Stat type="weight">111</Stat>
+     <Stat type="iw">245</Stat>
+     <Stat type="height">211</Stat>
+     <Stat type="ih">83</Stat>
+     <Stat type="jersey_num">14</Stat>
+     <Stat type="college"><![CDATA[UCLA]]></Stat>
+     <Stat type="first_year_pro">2002</Stat>
+     <Stat type="join_date">2012-09-01</Stat>
+     <Stat type="leave_date">2012-10-21</Stat>
+    </Player>
+   </Team>
+   <Team uID="7418">
+    <name>Toronto Raptors</name>
+    <Player uID="3001627">
+     <Name>Rasual Butler</Name>
+     <Position>F</Position>
+     <Stat type="first_name">Rasual</Stat>
+     <Stat type="last_name">Butler</Stat>
+     <Stat type="birth_date">1979-05-23</Stat>
+     <Stat type="weight">93</Stat>
+     <Stat type="iw">205</Stat>
+     <Stat type="height">201</Stat>
+     <Stat type="ih">79</Stat>
+     <Stat type="jersey_num">9</Stat>
+     <Stat type="college"><![CDATA[La Salle]]></Stat>
+     <Stat type="join_date">2011-12-01</Stat>
+     <Stat type="leave_date">2012-09-01</Stat>
+    </Player>
+    <Player uID="1730">
+     <Name>Justin Dentmon</Name>
+     <Position>G</Position>
+     <Stat type="first_name">Justin</Stat>
+     <Stat type="last_name">Dentmon</Stat>
+     <Stat type="jersey_num"></Stat>
+     <Stat type="join_date">-0001-11-30</Stat>
+     <Stat type="leave_date">2012-09-01</Stat>
+    </Player>
+   </Team>
+   <Team uID="7419">
+    <name>Washington Wizards</name>
+    <Player uID="3001428">
+     <Name>Maurice Evans</Name>
+     <Position>G-F</Position>
+     <Stat type="first_name">Maurice</Stat>
+     <Stat type="last_name">Evans</Stat>
+     <Stat type="birth_date">1978-11-08</Stat>
+     <Stat type="weight">99</Stat>
+     <Stat type="iw">218</Stat>
+     <Stat type="height">196</Stat>
+     <Stat type="ih">77</Stat>
+     <Stat type="jersey_num">6</Stat>
+     <Stat type="college"><![CDATA[Texas]]></Stat>
+     <Stat type="join_date">2011-12-01</Stat>
+     <Stat type="leave_date">2012-09-01</Stat>
+    </Player>
+    <Player uID="3001426">
+     <Name>Brian Cook</Name>
+     <Position>C-F</Position>
+     <Stat type="first_name">Brian</Stat>
+     <Stat type="last_name">Cook</Stat>
+     <Stat type="birth_date">1980-12-04</Stat>
+     <Stat type="weight">113</Stat>
+     <Stat type="iw">249</Stat>
+     <Stat type="height">206</Stat>
+     <Stat type="ih">81</Stat>
+     <Stat type="jersey_num">43</Stat>
+     <Stat type="college"><![CDATA[Illinois]]></Stat>
+     <Stat type="first_year_pro">2003</Stat>
+     <Stat type="join_date">2012-09-01</Stat>
+     <Stat type="leave_date">2012-10-22</Stat>
+    </Player>
+    <Player uID="3003045">
+     <Name>Hamady Ndiaye</Name>
+     <Position>C</Position>
+     <Stat type="first_name">Hamady</Stat>
+     <Stat type="last_name">Ndiaye</Stat>
+     <Stat type="birth_date">1987-01-12</Stat>
+     <Stat type="weight">107</Stat>
+     <Stat type="iw">235</Stat>
+     <Stat type="height">213</Stat>
+     <Stat type="ih">84</Stat>
+     <Stat type="jersey_num">55</Stat>
+     <Stat type="college"><![CDATA[Rutgers]]></Stat>
+     <Stat type="first_year_pro">2010</Stat>
+     <Stat type="join_date">2012-01-30</Stat>
+     <Stat type="leave_date">2012-02-07</Stat>
+     <Stat type="new_team">Sacramento Kings</Stat>
+    </Player>
+    <Player uID="3000912">
+     <Name>Shavlik Randolph</Name>
+     <Position>F</Position>
+     <Stat type="first_name">Shavlik</Stat>
+     <Stat type="last_name">Randolph</Stat>
+     <Stat type="birth_date">1983-11-24</Stat>
+     <Stat type="weight">107</Stat>
+     <Stat type="iw">236</Stat>
+     <Stat type="height">208</Stat>
+     <Stat type="ih">82</Stat>
+     <Stat type="jersey_num"></Stat>
+     <Stat type="college"><![CDATA[Duke]]></Stat>
+     <Stat type="first_year_pro">2006</Stat>
+     <Stat type="join_date">2012-09-01</Stat>
+     <Stat type="leave_date">2012-10-22</Stat>
+    </Player>
+    <Player uID="3001787">
+     <Name>Morris Almond</Name>
+     <Position>G-F</Position>
+     <Stat type="first_name">Morris</Stat>
+     <Stat type="last_name">Almond</Stat>
+     <Stat type="birth_date">1985-02-02</Stat>
+     <Stat type="weight">102</Stat>
+     <Stat type="iw">225</Stat>
+     <Stat type="height">198</Stat>
+     <Stat type="ih">78</Stat>
+     <Stat type="jersey_num"></Stat>
+     <Stat type="join_date">2011-12-01</Stat>
+     <Stat type="leave_date">2012-09-01</Stat>
+    </Player>
+    <Player uID="3002137">
+     <Name>Tomas Satoransky</Name>
+     <Position>G</Position>
+     <Stat type="first_name">Tomas</Stat>
+     <Stat type="last_name">Satoransky</Stat>
+     <Stat type="birth_date">1991-10-30</Stat>
+     <Stat type="weight">93</Stat>
+     <Stat type="iw">205</Stat>
+     <Stat type="height">201</Stat>
+     <Stat type="ih">79</Stat>
+     <Stat type="jersey_num"></Stat>
+     <Stat type="college"><![CDATA[Banca Civica]]></Stat>
+     <Stat type="first_year_pro">2012</Stat>
+     <Stat type="join_date">2012-09-01</Stat>
+     <Stat type="leave_date">2012-10-22</Stat>
+    </Player>
+    <Player uID="3002181">
+     <Name>Earl Barron</Name>
+     <Position>F-C</Position>
+     <Stat type="first_name">Earl</Stat>
+     <Stat type="last_name">Barron</Stat>
+     <Stat type="birth_date">1981-08-14</Stat>
+     <Stat type="weight">113</Stat>
+     <Stat type="iw">250</Stat>
+     <Stat type="height">213</Stat>
+     <Stat type="ih">84</Stat>
+     <Stat type="jersey_num"></Stat>
+     <Stat type="college"><![CDATA[Memphis]]></Stat>
+     <Stat type="first_year_pro">2005</Stat>
+     <Stat type="join_date">2012-09-01</Stat>
+     <Stat type="leave_date">2012-10-22</Stat>
+    </Player>
+    <Player uID="1729">
+     <Name>Edwin Ubiles</Name>
+     <Position>G</Position>
+     <Stat type="first_name">Edwin</Stat>
+     <Stat type="last_name">Ubiles</Stat>
+     <Stat type="birth_date">1986-11-26</Stat>
+     <Stat type="weight">92</Stat>
+     <Stat type="iw">203</Stat>
+     <Stat type="height">198</Stat>
+     <Stat type="ih">78</Stat>
+     <Stat type="jersey_num"></Stat>
+     <Stat type="college"><![CDATA[Siena]]></Stat>
+     <Stat type="first_year_pro">2012</Stat>
+     <Stat type="join_date">2012-03-18</Stat>
+     <Stat type="leave_date">2012-09-01</Stat>
+    </Player>
+    <Player uID="3001240">
+     <Name>James Singleton</Name>
+     <Position>G-F</Position>
+     <Stat type="first_name">James</Stat>
+     <Stat type="last_name">Singleton</Stat>
+     <Stat type="birth_date">1981-07-20</Stat>
+     <Stat type="weight">104</Stat>
+     <Stat type="iw">229</Stat>
+     <Stat type="height">203</Stat>
+     <Stat type="ih">80</Stat>
+     <Stat type="jersey_num"></Stat>
+     <Stat type="join_date">-0001-11-30</Stat>
+     <Stat type="leave_date">2012-09-01</Stat>
+    </Player>
+    <Player uID="1763">
+     <Name>Steven Gray</Name>
+     <Position>G</Position>
+     <Stat type="first_name">Steven</Stat>
+     <Stat type="last_name">Gray</Stat>
+     <Stat type="birth_date">1989-04-08</Stat>
+     <Stat type="weight">92</Stat>
+     <Stat type="iw">203</Stat>
+     <Stat type="height">195</Stat>
+     <Stat type="ih">77</Stat>
+     <Stat type="jersey_num"></Stat>
+     <Stat type="college"><![CDATA[Gonzaga]]></Stat>
+     <Stat type="first_year_pro">2012</Stat>
+     <Stat type="join_date">2012-10-04</Stat>
+     <Stat type="leave_date">2012-10-22</Stat>
+    </Player>
+   </Team>
+   <Team uID="7420">
+    <name>Dallas Mavericks</name>
+    <Player uID="3000260">
+     <Name>Brian Cardinal</Name>
+     <Position>F</Position>
+     <Stat type="first_name">Brian</Stat>
+     <Stat type="last_name">Cardinal</Stat>
+     <Stat type="birth_date">1977-05-02</Stat>
+     <Stat type="weight">108</Stat>
+     <Stat type="iw">238</Stat>
+     <Stat type="height">203</Stat>
+     <Stat type="ih">80</Stat>
+     <Stat type="jersey_num">35</Stat>
+     <Stat type="college"><![CDATA[Purdue]]></Stat>
+     <Stat type="join_date">2011-12-01</Stat>
+     <Stat type="leave_date">2012-09-01</Stat>
+    </Player>
+    <Player uID="3000465">
+     <Name>Yi Jianlian</Name>
+     <Position>F</Position>
+     <Stat type="first_name">Jianlian</Stat>
+     <Stat type="last_name">Yi</Stat>
+     <Stat type="birth_date">1987-10-27</Stat>
+     <Stat type="weight">113</Stat>
+     <Stat type="iw">250</Stat>
+     <Stat type="height">211</Stat>
+     <Stat type="ih">83</Stat>
+     <Stat type="jersey_num">9</Stat>
+     <Stat type="join_date">2011-12-01</Stat>
+     <Stat type="leave_date">2012-09-01</Stat>
+    </Player>
+    <Player uID="3000810">
+     <Name>Josh Akognon</Name>
+     <Position>G</Position>
+     <Stat type="first_name">Josh</Stat>
+     <Stat type="last_name">Akognon</Stat>
+     <Stat type="birth_date">1986-02-10</Stat>
+     <Stat type="weight">84</Stat>
+     <Stat type="iw">185</Stat>
+     <Stat type="height">180</Stat>
+     <Stat type="ih">71</Stat>
+     <Stat type="jersey_num">10</Stat>
+     <Stat type="college"><![CDATA[Cal State-Fullerton]]></Stat>
+     <Stat type="first_year_pro">2012</Stat>
+     <Stat type="join_date">2012-09-01</Stat>
+     <Stat type="leave_date">2012-10-22</Stat>
+    </Player>
+    <Player uID="3001416">
+     <Name>Didier Ilunga-Mbenga</Name>
+     <Position>C</Position>
+     <Stat type="first_name">Didier</Stat>
+     <Stat type="last_name">Ilunga-Mbenga</Stat>
+     <Stat type="birth_date">1980-12-30</Stat>
+     <Stat type="weight">115</Stat>
+     <Stat type="iw">254</Stat>
+     <Stat type="height">213</Stat>
+     <Stat type="ih">84</Stat>
+     <Stat type="jersey_num"></Stat>
+     <Stat type="join_date">2012-09-01</Stat>
+     <Stat type="leave_date">2012-09-01</Stat>
+     <Stat type="new_team">Dallas Mavericks</Stat>
+    </Player>
+   </Team>
+   <Team uID="7421">
+    <name>Denver Nuggets</name>
+    <Player uID="3000152">
+     <Name>Rudy Fernández</Name>
+     <Position>G</Position>
+     <Stat type="first_name">Rudy</Stat>
+     <Stat type="last_name">Fernandez</Stat>
+     <Stat type="birth_date">1985-04-04</Stat>
+     <Stat type="weight">83</Stat>
+     <Stat type="iw">183</Stat>
+     <Stat type="height">198</Stat>
+     <Stat type="ih">78</Stat>
+     <Stat type="jersey_num">5</Stat>
+     <Stat type="join_date">2011-12-01</Stat>
+     <Stat type="leave_date">2012-09-01</Stat>
+    </Player>
+    <Player uID="3001666">
+     <Name>Chris Andersen</Name>
+     <Position>C</Position>
+     <Stat type="first_name">Chris</Stat>
+     <Stat type="last_name">Andersen</Stat>
+     <Stat type="birth_date">1978-07-07</Stat>
+     <Stat type="weight">103</Stat>
+     <Stat type="iw">227</Stat>
+     <Stat type="height">208</Stat>
+     <Stat type="ih">82</Stat>
+     <Stat type="jersey_num">11</Stat>
+     <Stat type="college"><![CDATA[Blinn Junior College]]></Stat>
+     <Stat type="join_date">2011-12-01</Stat>
+     <Stat type="leave_date">2012-09-01</Stat>
+    </Player>
+    <Player uID="3002750">
+     <Name>Izzet Turkyilmaz</Name>
+     <Position>C</Position>
+     <Stat type="first_name">Izzet</Stat>
+     <Stat type="last_name">Turkyilmaz</Stat>
+     <Stat type="birth_date">1990-05-20</Stat>
+     <Stat type="weight">96</Stat>
+     <Stat type="iw">211</Stat>
+     <Stat type="height">213</Stat>
+     <Stat type="ih">84</Stat>
+     <Stat type="jersey_num">12</Stat>
+     <Stat type="college"><![CDATA[Banvit]]></Stat>
+     <Stat type="first_year_pro">2012</Stat>
+     <Stat type="join_date">2012-09-01</Stat>
+     <Stat type="leave_date">2012-09-01</Stat>
+     <Stat type="new_team">Denver Nuggets</Stat>
+    </Player>
+   </Team>
+   <Team uID="7422">
+    <name>Golden State Warriors</name>
+    <Player uID="3001712">
+     <Name>Kwame Brown</Name>
+     <Position>C</Position>
+     <Stat type="first_name">Kwame</Stat>
+     <Stat type="last_name">Brown</Stat>
+     <Stat type="birth_date">1982-03-10</Stat>
+     <Stat type="weight">132</Stat>
+     <Stat type="iw">290</Stat>
+     <Stat type="height">211</Stat>
+     <Stat type="ih">83</Stat>
+     <Stat type="jersey_num">54</Stat>
+     <Stat type="college"><![CDATA[Glynn Academy HS]]></Stat>
+     <Stat type="first_year_pro">2001</Stat>
+     <Stat type="join_date">2011-12-01</Stat>
+     <Stat type="leave_date">2012-03-16</Stat>
+     <Stat type="new_team">Philadelphia 76ers</Stat>
+    </Player>
+    <Player uID="3003011">
+     <Name>Chris Wright</Name>
+     <Position>F</Position>
+     <Stat type="first_name">Chris</Stat>
+     <Stat type="last_name">Wright</Stat>
+     <Stat type="birth_date">1988-09-30</Stat>
+     <Stat type="weight">103</Stat>
+     <Stat type="iw">226</Stat>
+     <Stat type="height">124</Stat>
+     <Stat type="ih">49</Stat>
+     <Stat type="jersey_num">33</Stat>
+     <Stat type="college"><![CDATA[Dayton]]></Stat>
+     <Stat type="first_year_pro">2012</Stat>
+     <Stat type="join_date">2011-12-01</Stat>
+     <Stat type="leave_date">2012-09-01</Stat>
+     <Stat type="new_team">Toronto Raptors</Stat>
+    </Player>
+    <Player uID="3002895">
+     <Name>Ognjen Kuzmic</Name>
+     <Position>C</Position>
+     <Stat type="first_name">Ognjen</Stat>
+     <Stat type="last_name">Kuzmic</Stat>
+     <Stat type="birth_date">1990-05-16</Stat>
+     <Stat type="weight">105</Stat>
+     <Stat type="iw">231</Stat>
+     <Stat type="height">216</Stat>
+     <Stat type="ih">85</Stat>
+     <Stat type="jersey_num"></Stat>
+     <Stat type="college"><![CDATA[Clinicas Rincon (Spain)]]></Stat>
+     <Stat type="first_year_pro">2012</Stat>
+     <Stat type="join_date">2012-09-01</Stat>
+     <Stat type="leave_date">2012-09-01</Stat>
+     <Stat type="new_team">Golden State Warriors</Stat>
+    </Player>
+    <Player uID="1750">
+     <Name>Stefhon Hannah</Name>
+     <Position>G</Position>
+     <Stat type="first_name">Stefhon</Stat>
+     <Stat type="last_name">Hannah</Stat>
+     <Stat type="birth_date">1985-06-14</Stat>
+     <Stat type="weight">79</Stat>
+     <Stat type="iw">175</Stat>
+     <Stat type="height">185</Stat>
+     <Stat type="ih">73</Stat>
+     <Stat type="jersey_num">1</Stat>
+     <Stat type="college"><![CDATA[Missouri]]></Stat>
+     <Stat type="first_year_pro">2012</Stat>
+     <Stat type="join_date">2012-09-01</Stat>
+     <Stat type="leave_date">2012-10-22</Stat>
+    </Player>
+   </Team>
+   <Team uID="7423">
+    <name>Houston Rockets</name>
+    <Player uID="3003002">
+     <Name>Jeff Adrien</Name>
+     <Position>F</Position>
+     <Stat type="first_name">Jeff</Stat>
+     <Stat type="last_name">Adrien</Stat>
+     <Stat type="birth_date">1986-02-10</Stat>
+     <Stat type="weight">110</Stat>
+     <Stat type="iw">243</Stat>
+     <Stat type="height">201</Stat>
+     <Stat type="ih">79</Stat>
+     <Stat type="jersey_num">8</Stat>
+     <Stat type="join_date">2011-12-01</Stat>
+     <Stat type="leave_date">2012-09-01</Stat>
+    </Player>
+    <Player uID="3001415">
+     <Name>Derek Fisher</Name>
+     <Position>G</Position>
+     <Stat type="first_name">Derek</Stat>
+     <Stat type="last_name">Fisher</Stat>
+     <Stat type="birth_date">1974-08-09</Stat>
+     <Stat type="weight">95</Stat>
+     <Stat type="iw">209</Stat>
+     <Stat type="height">185</Stat>
+     <Stat type="ih">73</Stat>
+     <Stat type="jersey_num"></Stat>
+     <Stat type="join_date">2012-03-15</Stat>
+     <Stat type="leave_date">2012-03-19</Stat>
+     <Stat type="new_team">Oklahoma City Thunder</Stat>
+    </Player>
+    <Player uID="3002298">
+     <Name>Earl Boykins</Name>
+     <Position>G</Position>
+     <Stat type="first_name">Earl</Stat>
+     <Stat type="last_name">Antoine Boykins</Stat>
+     <Stat type="birth_date">1976-06-02</Stat>
+     <Stat type="weight">60</Stat>
+     <Stat type="iw">132</Stat>
+     <Stat type="height">165</Stat>
+     <Stat type="ih">65</Stat>
+     <Stat type="jersey_num"></Stat>
+     <Stat type="join_date">2011-12-01</Stat>
+     <Stat type="leave_date">2012-09-01</Stat>
+    </Player>
+    <Player uID="103000539">
+     <Name>Courtney Fortson</Name>
+     <Position>G</Position>
+     <Stat type="first_name">Courtney</Stat>
+     <Stat type="last_name">Fortson</Stat>
+     <Stat type="birth_date">1988-05-23</Stat>
+     <Stat type="weight">84</Stat>
+     <Stat type="iw">185</Stat>
+     <Stat type="height">180</Stat>
+     <Stat type="ih">71</Stat>
+     <Stat type="jersey_num">9</Stat>
+     <Stat type="college"><![CDATA[Arkansas]]></Stat>
+     <Stat type="join_date">2012-01-01</Stat>
+     <Stat type="leave_date">2012-09-01</Stat>
+    </Player>
+    <Player uID="16">
+     <Name>Kyle Fogg</Name>
+     <Position>G</Position>
+     <Stat type="first_name">Kyle </Stat>
+     <Stat type="last_name">Fogg</Stat>
+     <Stat type="birth_date">1990-01-27</Stat>
+     <Stat type="weight">85</Stat>
+     <Stat type="iw">188</Stat>
+     <Stat type="height">191</Stat>
+     <Stat type="ih">75</Stat>
+     <Stat type="jersey_num">21</Stat>
+     <Stat type="college"><![CDATA[Arizona]]></Stat>
+     <Stat type="first_year_pro">2012</Stat>
+     <Stat type="join_date">2012-09-01</Stat>
+     <Stat type="leave_date">2012-10-22</Stat>
+    </Player>
+    <Player uID="1732">
+     <Name>Diamon Simpson</Name>
+     <Position>F</Position>
+     <Stat type="first_name">Diamon</Stat>
+     <Stat type="last_name">Simpson</Stat>
+     <Stat type="birth_date">1987-09-08</Stat>
+     <Stat type="weight">104</Stat>
+     <Stat type="iw">230</Stat>
+     <Stat type="height">201</Stat>
+     <Stat type="ih">79</Stat>
+     <Stat type="jersey_num">20</Stat>
+     <Stat type="college"><![CDATA[St. Mary's (CA)]]></Stat>
+     <Stat type="join_date">-0001-11-30</Stat>
+     <Stat type="leave_date">2012-09-01</Stat>
+    </Player>
+    <Player uID="1736">
+     <Name>Sean Williams</Name>
+     <Position>C</Position>
+     <Stat type="first_name">Sean </Stat>
+     <Stat type="last_name">Williams</Stat>
+     <Stat type="jersey_num">56</Stat>
+     <Stat type="join_date">2012-09-01</Stat>
+     <Stat type="leave_date">2012-09-01</Stat>
+     <Stat type="new_team">Houston Rockets</Stat>
+    </Player>
+    <Player uID="1756">
+     <Name>Demetri McCarney</Name>
+     <Position>G</Position>
+     <Stat type="first_name">Demetri</Stat>
+     <Stat type="last_name">McCarney</Stat>
+     <Stat type="birth_date">1989-02-21</Stat>
+     <Stat type="weight">90</Stat>
+     <Stat type="iw">198</Stat>
+     <Stat type="height">190</Stat>
+     <Stat type="ih">75</Stat>
+     <Stat type="jersey_num">32</Stat>
+     <Stat type="college"><![CDATA[Illinois]]></Stat>
+     <Stat type="first_year_pro">2012</Stat>
+     <Stat type="join_date">2012-10-04</Stat>
+     <Stat type="leave_date">2012-10-22</Stat>
+    </Player>
+   </Team>
+   <Team uID="7424">
+    <name>L.A. Clippers</name>
+    <Player uID="3001750">
+     <Name>Ryan Gomes</Name>
+     <Position>F</Position>
+     <Stat type="first_name">Ryan</Stat>
+     <Stat type="last_name">Gomes</Stat>
+     <Stat type="birth_date">1982-09-01</Stat>
+     <Stat type="weight">113</Stat>
+     <Stat type="iw">249</Stat>
+     <Stat type="height">201</Stat>
+     <Stat type="ih">79</Stat>
+     <Stat type="jersey_num">15</Stat>
+     <Stat type="college"><![CDATA[Providence]]></Stat>
+     <Stat type="join_date">2011-12-01</Stat>
+     <Stat type="leave_date">2012-09-01</Stat>
+    </Player>
+    <Player uID="3001438">
+     <Name>Kenyon Martin</Name>
+     <Position>F</Position>
+     <Stat type="first_name">Kenyon</Stat>
+     <Stat type="last_name">Martin</Stat>
+     <Stat type="birth_date">1977-12-30</Stat>
+     <Stat type="weight">108</Stat>
+     <Stat type="iw">238</Stat>
+     <Stat type="height">206</Stat>
+     <Stat type="ih">81</Stat>
+     <Stat type="jersey_num">2</Stat>
+     <Stat type="college"><![CDATA[Cincinnati]]></Stat>
+     <Stat type="join_date">2011-12-01</Stat>
+     <Stat type="leave_date">2012-09-01</Stat>
+    </Player>
+    <Player uID="3001582">
+     <Name>Bobby Simmons</Name>
+     <Position>F-C</Position>
+     <Stat type="first_name">Bobby</Stat>
+     <Stat type="last_name">Simmons</Stat>
+     <Stat type="birth_date">1980-06-02</Stat>
+     <Stat type="weight">104</Stat>
+     <Stat type="iw">229</Stat>
+     <Stat type="height">198</Stat>
+     <Stat type="ih">78</Stat>
+     <Stat type="jersey_num"></Stat>
+     <Stat type="college"><![CDATA[DePaul]]></Stat>
+     <Stat type="join_date">2011-12-01</Stat>
+     <Stat type="leave_date">2012-09-01</Stat>
+    </Player>
+   </Team>
+   <Team uID="7425">
+    <name>L.A. Lakers</name>
+    <Player uID="3002579">
+     <Name>Derrick Caracter</Name>
+     <Position>F</Position>
+     <Stat type="first_name">Derrick</Stat>
+     <Stat type="last_name">Caracter</Stat>
+     <Stat type="birth_date">1988-05-04</Stat>
+     <Stat type="weight">120</Stat>
+     <Stat type="iw">265</Stat>
+     <Stat type="height">206</Stat>
+     <Stat type="ih">81</Stat>
+     <Stat type="jersey_num">45</Stat>
+     <Stat type="join_date">2011-12-01</Stat>
+     <Stat type="leave_date">2012-03-20</Stat>
+    </Player>
+    <Player uID="3001733">
+     <Name>Troy Murphy</Name>
+     <Position>F-C</Position>
+     <Stat type="first_name">Troy</Stat>
+     <Stat type="last_name">Murphy</Stat>
+     <Stat type="birth_date">1980-05-02</Stat>
+     <Stat type="weight">111</Stat>
+     <Stat type="iw">245</Stat>
+     <Stat type="height">211</Stat>
+     <Stat type="ih">83</Stat>
+     <Stat type="jersey_num">14</Stat>
+     <Stat type="college"><![CDATA[Notre Dame]]></Stat>
+     <Stat type="join_date">2011-12-01</Stat>
+     <Stat type="leave_date">2012-09-01</Stat>
+    </Player>
+    <Player uID="1145">
+     <Name>Reeves Nelson</Name>
+     <Position>F</Position>
+     <Stat type="first_name">Reeves</Stat>
+     <Stat type="last_name">Nelson</Stat>
+     <Stat type="birth_date">1991-09-18</Stat>
+     <Stat type="weight">107</Stat>
+     <Stat type="iw">235</Stat>
+     <Stat type="height">203</Stat>
+     <Stat type="ih">80</Stat>
+     <Stat type="jersey_num">91</Stat>
+     <Stat type="college"><![CDATA[UCLA]]></Stat>
+     <Stat type="first_year_pro">2012</Stat>
+     <Stat type="join_date">2012-09-01</Stat>
+     <Stat type="leave_date">2012-10-22</Stat>
+    </Player>
+    <Player uID="3001415">
+     <Name>Derek Fisher</Name>
+     <Position>G</Position>
+     <Stat type="first_name">Derek</Stat>
+     <Stat type="last_name">Fisher</Stat>
+     <Stat type="birth_date">1974-08-09</Stat>
+     <Stat type="weight">95</Stat>
+     <Stat type="iw">209</Stat>
+     <Stat type="height">185</Stat>
+     <Stat type="ih">73</Stat>
+     <Stat type="jersey_num"></Stat>
+     <Stat type="join_date">2011-12-01</Stat>
+     <Stat type="leave_date">2012-03-14</Stat>
+     <Stat type="new_team">Houston Rockets</Stat>
+    </Player>
+    <Player uID="1761">
+     <Name>Ronnie Aguilar</Name>
+     <Position>C</Position>
+     <Stat type="first_name">Ronnie</Stat>
+     <Stat type="last_name">Aguilar</Stat>
+     <Stat type="birth_date">1987-06-24</Stat>
+     <Stat type="weight">113</Stat>
+     <Stat type="iw">250</Stat>
+     <Stat type="height">216</Stat>
+     <Stat type="ih">85</Stat>
+     <Stat type="jersey_num">23</Stat>
+     <Stat type="college"><![CDATA[Colorado State]]></Stat>
+     <Stat type="first_year_pro">2012</Stat>
+     <Stat type="join_date">2012-10-04</Stat>
+     <Stat type="leave_date">2012-10-22</Stat>
+    </Player>
+   </Team>
+   <Team uID="7426">
+    <name>Minnesota Timberwolves</name>
+    <Player uID="3000488">
+     <Name>Brad Miller</Name>
+     <Position>C-F</Position>
+     <Stat type="first_name">Brad</Stat>
+     <Stat type="last_name">Miller</Stat>
+     <Stat type="birth_date">1976-04-12</Stat>
+     <Stat type="weight">118</Stat>
+     <Stat type="iw">260</Stat>
+     <Stat type="height">213</Stat>
+     <Stat type="ih">84</Stat>
+     <Stat type="jersey_num">52</Stat>
+     <Stat type="college"><![CDATA[Purdue]]></Stat>
+     <Stat type="join_date">2011-12-01</Stat>
+     <Stat type="leave_date">2012-09-01</Stat>
+    </Player>
+   </Team>
+   <Team uID="7427">
+    <name>Phoenix Suns</name>
+    <Player uID="3002187">
+     <Name>Garret Siler</Name>
+     <Position>C</Position>
+     <Stat type="first_name">Garret</Stat>
+     <Stat type="last_name">Siler</Stat>
+     <Stat type="birth_date">1986-10-25</Stat>
+     <Stat type="weight">138</Stat>
+     <Stat type="iw">304</Stat>
+     <Stat type="height">211</Stat>
+     <Stat type="ih">83</Stat>
+     <Stat type="jersey_num"></Stat>
+     <Stat type="join_date">2011-12-01</Stat>
+     <Stat type="leave_date">2012-01-02</Stat>
+    </Player>
+    <Player uID="3001482">
+     <Name>Michael Redd</Name>
+     <Position>G</Position>
+     <Stat type="first_name">Michael</Stat>
+     <Stat type="last_name">Redd</Stat>
+     <Stat type="birth_date">1979-08-24</Stat>
+     <Stat type="weight">97</Stat>
+     <Stat type="iw">214</Stat>
+     <Stat type="height">198</Stat>
+     <Stat type="ih">78</Stat>
+     <Stat type="jersey_num">22</Stat>
+     <Stat type="college"><![CDATA[Ohio State]]></Stat>
+     <Stat type="join_date">2011-12-01</Stat>
+     <Stat type="leave_date">2012-09-01</Stat>
+    </Player>
+    <Player uID="1758">
+     <Name>Othyus Jeffers</Name>
+     <Position>G</Position>
+     <Stat type="first_name">Othyus</Stat>
+     <Stat type="last_name">Jeffers</Stat>
+     <Stat type="birth_date">1985-08-15</Stat>
+     <Stat type="weight">95</Stat>
+     <Stat type="iw">209</Stat>
+     <Stat type="height">195</Stat>
+     <Stat type="ih">77</Stat>
+     <Stat type="jersey_num">22</Stat>
+     <Stat type="college"><![CDATA[Robert Morris]]></Stat>
+     <Stat type="first_year_pro">2010</Stat>
+     <Stat type="join_date">2012-10-04</Stat>
+     <Stat type="leave_date">2012-10-21</Stat>
+    </Player>
+   </Team>
+   <Team uID="7428">
+    <name>Portland Trail Blazers</name>
+    <Player uID="3000583">
+     <Name>Mehmet Okur</Name>
+     <Position>C</Position>
+     <Stat type="first_name">Mehmet</Stat>
+     <Stat type="last_name">Okur</Stat>
+     <Stat type="birth_date">1979-05-26</Stat>
+     <Stat type="weight">111</Stat>
+     <Stat type="iw">245</Stat>
+     <Stat type="height">211</Stat>
+     <Stat type="ih">83</Stat>
+     <Stat type="jersey_num"></Stat>
+     <Stat type="join_date">2011-12-01</Stat>
+     <Stat type="leave_date">2012-09-01</Stat>
+    </Player>
+    <Player uID="3002717">
+     <Name>Chris Johnson</Name>
+     <Position>F</Position>
+     <Stat type="first_name">Chris</Stat>
+     <Stat type="last_name">Johnson</Stat>
+     <Stat type="birth_date">1985-07-15</Stat>
+     <Stat type="weight">95</Stat>
+     <Stat type="iw">210</Stat>
+     <Stat type="height">211</Stat>
+     <Stat type="ih">83</Stat>
+     <Stat type="jersey_num">20</Stat>
+     <Stat type="college"><![CDATA[Louisiana State]]></Stat>
+     <Stat type="first_year_pro">2010</Stat>
+     <Stat type="join_date">2011-12-01</Stat>
+     <Stat type="leave_date">2012-03-16</Stat>
+     <Stat type="new_team">Minnesota Timberwolves</Stat>
+    </Player>
+    <Player uID="3001556">
+     <Name>Shawne Williams</Name>
+     <Position>F</Position>
+     <Stat type="first_name">Shawne</Stat>
+     <Stat type="last_name">Williams</Stat>
+     <Stat type="birth_date">1986-02-16</Stat>
+     <Stat type="weight">102</Stat>
+     <Stat type="iw">225</Stat>
+     <Stat type="height">206</Stat>
+     <Stat type="ih">81</Stat>
+     <Stat type="jersey_num"></Stat>
+     <Stat type="college"><![CDATA[Memphis]]></Stat>
+     <Stat type="join_date">2011-12-01</Stat>
+     <Stat type="leave_date">2012-09-01</Stat>
+    </Player>
+    <Player uID="3001764">
+     <Name>Greg Oden</Name>
+     <Position>C</Position>
+     <Stat type="first_name">Greg</Stat>
+     <Stat type="last_name">Oden</Stat>
+     <Stat type="birth_date">1988-01-22</Stat>
+     <Stat type="weight">129</Stat>
+     <Stat type="iw">284</Stat>
+     <Stat type="height">213</Stat>
+     <Stat type="ih">84</Stat>
+     <Stat type="jersey_num">52</Stat>
+     <Stat type="join_date">2011-12-01</Stat>
+     <Stat type="leave_date">2012-03-15</Stat>
+    </Player>
+    <Player uID="3002207">
+     <Name>Jonny Flynn</Name>
+     <Position>G</Position>
+     <Stat type="first_name">Jonny</Stat>
+     <Stat type="last_name">Flynn</Stat>
+     <Stat type="birth_date">1989-02-06</Stat>
+     <Stat type="weight">84</Stat>
+     <Stat type="iw">185</Stat>
+     <Stat type="height">183</Stat>
+     <Stat type="ih">72</Stat>
+     <Stat type="jersey_num">8</Stat>
+     <Stat type="college"><![CDATA[Syracuse]]></Stat>
+     <Stat type="first_year_pro">2009</Stat>
+     <Stat type="join_date">2011-12-01</Stat>
+     <Stat type="leave_date">2012-09-01</Stat>
+     <Stat type="new_team">Detroit Pistons</Stat>
+    </Player>
+   </Team>
+   <Team uID="7429">
+    <name>Sacramento Kings</name>
+    <Player uID="3002173">
+     <Name>Terrence Williams</Name>
+     <Position>G-F</Position>
+     <Stat type="first_name">Terrence</Stat>
+     <Stat type="last_name">Williams</Stat>
+     <Stat type="birth_date">1987-06-28</Stat>
+     <Stat type="weight">100</Stat>
+     <Stat type="iw">220</Stat>
+     <Stat type="height">198</Stat>
+     <Stat type="ih">78</Stat>
+     <Stat type="jersey_num">9</Stat>
+     <Stat type="college"><![CDATA[Louisville]]></Stat>
+     <Stat type="first_year_pro">2009</Stat>
+     <Stat type="join_date">2012-03-27</Stat>
+     <Stat type="leave_date">2012-09-01</Stat>
+     <Stat type="new_team">Detroit Pistons</Stat>
+    </Player>
+    <Player uID="3001878">
+     <Name>Donte Greene</Name>
+     <Position>F</Position>
+     <Stat type="first_name">Donte</Stat>
+     <Stat type="last_name">Greene</Stat>
+     <Stat type="birth_date">1988-02-21</Stat>
+     <Stat type="weight">103</Stat>
+     <Stat type="iw">226</Stat>
+     <Stat type="height">211</Stat>
+     <Stat type="ih">83</Stat>
+     <Stat type="jersey_num">20</Stat>
+     <Stat type="college"><![CDATA[Syracuse]]></Stat>
+     <Stat type="join_date">2011-12-01</Stat>
+     <Stat type="leave_date">2012-09-01</Stat>
+    </Player>
+    <Player uID="3003035">
+     <Name>Hassan Whiteside</Name>
+     <Position>C</Position>
+     <Stat type="first_name">Hassan</Stat>
+     <Stat type="last_name">Whiteside</Stat>
+     <Stat type="birth_date">1989-06-13</Stat>
+     <Stat type="weight">106</Stat>
+     <Stat type="iw">234</Stat>
+     <Stat type="height">213</Stat>
+     <Stat type="ih">84</Stat>
+     <Stat type="jersey_num">33</Stat>
+     <Stat type="college"><![CDATA[Marshall]]></Stat>
+     <Stat type="join_date">2011-12-01</Stat>
+     <Stat type="leave_date">2012-09-01</Stat>
+    </Player>
+   </Team>
+   <Team uID="7430">
+    <name>San Antonio Spurs</name>
+    <Player uID="103000547">
+     <Name>Eric Dawson</Name>
+     <Position>F</Position>
+     <Stat type="first_name">Eric</Stat>
+     <Stat type="last_name">Dawson</Stat>
+     <Stat type="jersey_num">23</Stat>
+     <Stat type="join_date">2012-02-14</Stat>
+     <Stat type="leave_date">2012-09-01</Stat>
+    </Player>
+    <Player uID="3001406">
+     <Name>T. J. Ford</Name>
+     <Position>G</Position>
+     <Stat type="first_name">T.J.</Stat>
+     <Stat type="last_name">Ford</Stat>
+     <Stat type="birth_date">1983-03-24</Stat>
+     <Stat type="weight">74</Stat>
+     <Stat type="iw">163</Stat>
+     <Stat type="height">183</Stat>
+     <Stat type="ih">72</Stat>
+     <Stat type="jersey_num">11</Stat>
+     <Stat type="join_date">2011-12-01</Stat>
+     <Stat type="leave_date">2012-03-17</Stat>
+    </Player>
+    <Player uID="1735">
+     <Name>Derrick Byars</Name>
+     <Position>F</Position>
+     <Stat type="first_name">Derrick</Stat>
+     <Stat type="last_name">Byars</Stat>
+     <Stat type="jersey_num"></Stat>
+     <Stat type="join_date">-0001-11-30</Stat>
+     <Stat type="leave_date">2012-09-01</Stat>
+    </Player>
+   </Team>
+   <Team uID="7432">
+    <name>Utah Jazz</name>
+    <Player uID="3001550">
+     <Name>Josh Howard</Name>
+     <Position>F</Position>
+     <Stat type="first_name">Josh</Stat>
+     <Stat type="last_name">Howard</Stat>
+     <Stat type="birth_date">1980-04-28</Stat>
+     <Stat type="weight">95</Stat>
+     <Stat type="iw">209</Stat>
+     <Stat type="height">201</Stat>
+     <Stat type="ih">79</Stat>
+     <Stat type="jersey_num">8</Stat>
+     <Stat type="college"><![CDATA[Wake Forest]]></Stat>
+     <Stat type="join_date">2011-12-01</Stat>
+     <Stat type="leave_date">2012-09-01</Stat>
+    </Player>
+   </Team>
+   <Team uID="7433">
+    <name>New Orleans Hornets</name>
+    <Player uID="3002200">
+     <Name>DaJuan Summers</Name>
+     <Position>F</Position>
+     <Stat type="first_name">DaJuan</Stat>
+     <Stat type="last_name">Summers</Stat>
+     <Stat type="birth_date">1988-01-24</Stat>
+     <Stat type="weight">109</Stat>
+     <Stat type="iw">240</Stat>
+     <Stat type="height">203</Stat>
+     <Stat type="ih">80</Stat>
+     <Stat type="jersey_num">5</Stat>
+     <Stat type="college"><![CDATA[Georgetown]]></Stat>
+     <Stat type="first_year_pro">2009</Stat>
+     <Stat type="join_date">2011-12-01</Stat>
+     <Stat type="leave_date">2012-02-08</Stat>
+     <Stat type="new_team">Charlotte Bobcats</Stat>
+    </Player>
+    <Player uID="3002582">
+     <Name>Trey Johnson</Name>
+     <Position>G</Position>
+     <Stat type="first_name">Trey</Stat>
+     <Stat type="last_name">Johnson</Stat>
+     <Stat type="birth_date">1984-08-30</Stat>
+     <Stat type="weight">99</Stat>
+     <Stat type="iw">218</Stat>
+     <Stat type="height">196</Stat>
+     <Stat type="ih">77</Stat>
+     <Stat type="jersey_num">12</Stat>
+     <Stat type="join_date">2011-12-01</Stat>
+     <Stat type="leave_date">2012-01-27</Stat>
+    </Player>
+    <Player uID="3001647">
+     <Name>Darryl Watkins</Name>
+     <Position>G</Position>
+     <Stat type="first_name">Darryl</Stat>
+     <Stat type="last_name">Watkins</Stat>
+     <Stat type="birth_date">1984-11-08</Stat>
+     <Stat type="weight">117</Stat>
+     <Stat type="iw">258</Stat>
+     <Stat type="height">211</Stat>
+     <Stat type="ih">83</Stat>
+     <Stat type="jersey_num"></Stat>
+     <Stat type="join_date">2011-12-01</Stat>
+     <Stat type="leave_date">2012-09-01</Stat>
+    </Player>
+    <Player uID="819">
+     <Name>Dominique Morrison</Name>
+     <Position>F</Position>
+     <Stat type="first_name">Dominique</Stat>
+     <Stat type="last_name">Morrison</Stat>
+     <Stat type="birth_date">1989-11-29</Stat>
+     <Stat type="weight">95</Stat>
+     <Stat type="iw">210</Stat>
+     <Stat type="height">198</Stat>
+     <Stat type="ih">78</Stat>
+     <Stat type="jersey_num">0</Stat>
+     <Stat type="college"><![CDATA[Oral Roberts]]></Stat>
+     <Stat type="first_year_pro">2012</Stat>
+     <Stat type="join_date">2012-09-01</Stat>
+     <Stat type="leave_date">2012-10-22</Stat>
+    </Player>
+    <Player uID="1540">
+     <Name>Jeff Foote</Name>
+     <Position>C</Position>
+     <Stat type="first_name">Jeff</Stat>
+     <Stat type="last_name">Foote</Stat>
+     <Stat type="birth_date">1987-07-14</Stat>
+     <Stat type="weight">120</Stat>
+     <Stat type="iw">265</Stat>
+     <Stat type="height">213</Stat>
+     <Stat type="ih">84</Stat>
+     <Stat type="jersey_num">54</Stat>
+     <Stat type="place_of_birth"><![CDATA[Waverly, NY]]></Stat>
+     <Stat type="college"><![CDATA[Cornell]]></Stat>
+     <Stat type="first_year_pro">2012</Stat>
+     <Stat type="join_date">2012-09-01</Stat>
+     <Stat type="leave_date">2012-09-01</Stat>
+     <Stat type="new_team">New Orleans Hornets</Stat>
+    </Player>
+    <Player uID="1731">
+     <Name>Jerome Dyson</Name>
+     <Position>G</Position>
+     <Stat type="first_name">Jerome</Stat>
+     <Stat type="last_name">Dyson</Stat>
+     <Stat type="birth_date">1987-05-01</Stat>
+     <Stat type="weight">81</Stat>
+     <Stat type="iw">179</Stat>
+     <Stat type="height">190</Stat>
+     <Stat type="ih">75</Stat>
+     <Stat type="jersey_num"></Stat>
+     <Stat type="place_of_birth"><![CDATA[USA]]></Stat>
+     <Stat type="college"><![CDATA[Connecticut]]></Stat>
+     <Stat type="first_year_pro">2011</Stat>
+     <Stat type="join_date">-0001-11-30</Stat>
+     <Stat type="leave_date">2012-09-01</Stat>
+    </Player>
+   </Team>
+   <Team uID="7434">
+    <name>Memphis Grizzlies</name>
+    <Player uID="3001844">
+     <Name>Brian Skinner</Name>
+     <Position>F-C</Position>
+     <Stat type="first_name">Brian</Stat>
+     <Stat type="last_name">Skinner</Stat>
+     <Stat type="birth_date">1976-05-19</Stat>
+     <Stat type="weight">115</Stat>
+     <Stat type="iw">254</Stat>
+     <Stat type="height">206</Stat>
+     <Stat type="ih">81</Stat>
+     <Stat type="jersey_num"></Stat>
+     <Stat type="join_date">2011-12-01</Stat>
+     <Stat type="leave_date">2011-12-29</Stat>
+    </Player>
+    <Player uID="3001723">
+     <Name>Josh Davis</Name>
+     <Position>F</Position>
+     <Stat type="first_name">Josh</Stat>
+     <Stat type="last_name">Davis</Stat>
+     <Stat type="birth_date">1980-08-10</Stat>
+     <Stat type="weight">106</Stat>
+     <Stat type="iw">234</Stat>
+     <Stat type="height">203</Stat>
+     <Stat type="ih">80</Stat>
+     <Stat type="jersey_num">18</Stat>
+     <Stat type="join_date">2011-12-01</Stat>
+     <Stat type="leave_date">2012-02-29</Stat>
+    </Player>
+    <Player uID="3000478">
+     <Name>Gilbert Arenas</Name>
+     <Position>G</Position>
+     <Stat type="first_name">Gilbert</Stat>
+     <Stat type="last_name">Arenas</Stat>
+     <Stat type="birth_date">1982-01-06</Stat>
+     <Stat type="weight">97</Stat>
+     <Stat type="iw">214</Stat>
+     <Stat type="height">193</Stat>
+     <Stat type="ih">76</Stat>
+     <Stat type="jersey_num"></Stat>
+     <Stat type="join_date">2011-12-01</Stat>
+     <Stat type="leave_date">2012-09-01</Stat>
+    </Player>
+    <Player uID="3002143">
+     <Name>Lester Hudson</Name>
+     <Position>G-F</Position>
+     <Stat type="first_name">Lester</Stat>
+     <Stat type="last_name">Hudson</Stat>
+     <Stat type="birth_date">1984-08-07</Stat>
+     <Stat type="weight">86</Stat>
+     <Stat type="iw">190</Stat>
+     <Stat type="height">191</Stat>
+     <Stat type="ih">75</Stat>
+     <Stat type="jersey_num">14</Stat>
+     <Stat type="join_date">2011-12-01</Stat>
+     <Stat type="leave_date">2012-09-01</Stat>
+    </Player>
+    <Player uID="1754">
+     <Name>Jarrid Famous</Name>
+     <Position>C-F</Position>
+     <Stat type="first_name">Jarrid</Stat>
+     <Stat type="last_name">Famous</Stat>
+     <Stat type="birth_date">1988-07-16</Stat>
+     <Stat type="weight">109</Stat>
+     <Stat type="iw">240</Stat>
+     <Stat type="height">206</Stat>
+     <Stat type="ih">81</Stat>
+     <Stat type="jersey_num">31</Stat>
+     <Stat type="college"><![CDATA[South Flordia]]></Stat>
+     <Stat type="first_year_pro">2012</Stat>
+     <Stat type="join_date">2012-10-04</Stat>
+     <Stat type="leave_date">2012-10-22</Stat>
+    </Player>
+    <Player uID="1733">
+     <Name>D.J. Kennedy</Name>
+     <Position>G-F</Position>
+     <Stat type="first_name">D.J.</Stat>
+     <Stat type="last_name">Kennedy</Stat>
+     <Stat type="birth_date">1989-11-05</Stat>
+     <Stat type="weight">98</Stat>
+     <Stat type="iw">215</Stat>
+     <Stat type="height">198</Stat>
+     <Stat type="ih">78</Stat>
+     <Stat type="jersey_num">4</Stat>
+     <Stat type="college"><![CDATA[St. John's]]></Stat>
+     <Stat type="first_year_pro">2011</Stat>
+     <Stat type="join_date">2012-09-01</Stat>
+     <Stat type="leave_date">2012-10-22</Stat>
+    </Player>
+   </Team>
+   <Team uID="7645">
+    <name>Charlotte Bobcats</name>
+    <Player uID="3001439">
+     <Name>Eduardo Nájera</Name>
+     <Position>F</Position>
+     <Stat type="first_name">Eduardo</Stat>
+     <Stat type="last_name">Nájera</Stat>
+     <Stat type="birth_date">1976-07-11</Stat>
+     <Stat type="weight">106</Stat>
+     <Stat type="iw">234</Stat>
+     <Stat type="height">203</Stat>
+     <Stat type="ih">80</Stat>
+     <Stat type="jersey_num">21</Stat>
+     <Stat type="college"><![CDATA[Oklahoma]]></Stat>
+     <Stat type="join_date">2011-12-01</Stat>
+     <Stat type="leave_date">2012-09-01</Stat>
+    </Player>
+    <Player uID="3002190">
+     <Name>Derrick Brown</Name>
+     <Position>F</Position>
+     <Stat type="first_name">Derrick</Stat>
+     <Stat type="last_name">Brown</Stat>
+     <Stat type="birth_date">1987-09-08</Stat>
+     <Stat type="weight">106</Stat>
+     <Stat type="iw">233</Stat>
+     <Stat type="height">203</Stat>
+     <Stat type="ih">80</Stat>
+     <Stat type="jersey_num">1</Stat>
+     <Stat type="college"><![CDATA[Xavier]]></Stat>
+     <Stat type="first_year_pro">2009</Stat>
+     <Stat type="join_date">2011-12-01</Stat>
+     <Stat type="leave_date">2012-09-01</Stat>
+     <Stat type="new_team">San Antonio Spurs</Stat>
+    </Player>
+    <Player uID="103000542">
+     <Name>Cory Higgins</Name>
+     <Position>G</Position>
+     <Stat type="first_name">Cory</Stat>
+     <Stat type="last_name">Higgins</Stat>
+     <Stat type="birth_date">1989-06-14</Stat>
+     <Stat type="weight">82</Stat>
+     <Stat type="iw">180</Stat>
+     <Stat type="height">196</Stat>
+     <Stat type="ih">77</Stat>
+     <Stat type="jersey_num">11</Stat>
+     <Stat type="college"><![CDATA[Colorado]]></Stat>
+     <Stat type="first_year_pro">2011</Stat>
+     <Stat type="join_date">2012-02-03</Stat>
+     <Stat type="leave_date">2012-09-01</Stat>
+     <Stat type="new_team">Charlotte Bobcats</Stat>
+    </Player>
+    <Player uID="3001737">
+     <Name>D.J. White</Name>
+     <Position>F</Position>
+     <Stat type="first_name">Dewayne</Stat>
+     <Stat type="last_name">White</Stat>
+     <Stat type="birth_date">1986-08-31</Stat>
+     <Stat type="weight">113</Stat>
+     <Stat type="iw">249</Stat>
+     <Stat type="height">206</Stat>
+     <Stat type="ih">81</Stat>
+     <Stat type="jersey_num">8</Stat>
+     <Stat type="college"><![CDATA[Indiana]]></Stat>
+     <Stat type="join_date">2011-12-01</Stat>
+     <Stat type="leave_date">2012-09-01</Stat>
+    </Player>
+    <Player uID="3001410">
+     <Name>Jamario Moon</Name>
+     <Position>F</Position>
+     <Stat type="first_name">Jamario</Stat>
+     <Stat type="last_name">Moon</Stat>
+     <Stat type="birth_date">1980-06-13</Stat>
+     <Stat type="weight">93</Stat>
+     <Stat type="iw">205</Stat>
+     <Stat type="height">203</Stat>
+     <Stat type="ih">80</Stat>
+     <Stat type="jersey_num"></Stat>
+     <Stat type="join_date">2011-12-01</Stat>
+     <Stat type="leave_date">2012-09-01</Stat>
+    </Player>
+   </Team>
+   <Team uID="8960">
+    <name>Oklahoma City Thunder</name>
+    <Player uID="3003025">
+     <Name>Ryan Reid</Name>
+     <Position>F</Position>
+     <Stat type="first_name">Ryan</Stat>
+     <Stat type="last_name">Reid</Stat>
+     <Stat type="birth_date">1986-10-30</Stat>
+     <Stat type="weight">106</Stat>
+     <Stat type="iw">234</Stat>
+     <Stat type="height">203</Stat>
+     <Stat type="ih">80</Stat>
+     <Stat type="jersey_num">33</Stat>
+     <Stat type="college"><![CDATA[Florida State]]></Stat>
+     <Stat type="join_date">2011-12-01</Stat>
+     <Stat type="leave_date">2012-09-01</Stat>
+    </Player>
+    <Player uID="3001415">
+     <Name>Derek Fisher</Name>
+     <Position>G</Position>
+     <Stat type="first_name">Derek</Stat>
+     <Stat type="last_name">Fisher</Stat>
+     <Stat type="birth_date">1974-08-09</Stat>
+     <Stat type="weight">95</Stat>
+     <Stat type="iw">209</Stat>
+     <Stat type="height">185</Stat>
+     <Stat type="ih">73</Stat>
+     <Stat type="jersey_num"></Stat>
+     <Stat type="join_date">2012-03-21</Stat>
+     <Stat type="leave_date">2012-09-01</Stat>
+    </Player>
+   </Team>
+  </PlayerChanges>
